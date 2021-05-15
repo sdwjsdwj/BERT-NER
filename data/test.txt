@@ -1,16 +1,15 @@
 -DOCSTART- -X- -X- O
 
-
 What -X- _ O
 is -X- _ O
-PayPal -X- _ B-PP_Product
-Smart -X- _ I-PP_Product
-Connect. -X- _ I-PP_Product
+PayPal -X- _ B-Prod
+Smart -X- _ I-Prod
+Connect. -X- _ I-Prod
 
 What's -X- _ O
 Pay -X- _ O
 with -X- _ O
-Rewards -X- _ B-PP_Product
+Rewards -X- _ B-Prod
 and -X- _ O
 how -X- _ O
 do -X- _ O
@@ -19,8 +18,8 @@ use -X- _ O
 it. -X- _ O
 
 
-PayPal -X- _ B-PP_Product
-Key -X- _ I-PP_Product
+PayPal -X- _ B-Prod
+Key -X- _ I-Prod
 is -X- _ O
 a -X- _ O
 virtual -X- _ O
@@ -46,14 +45,14 @@ the -X- _ O
 minimum -X- _ O
 repayment -X- _ O
 requirement -X- _ O
-(PayPal -X- _ B-PP_Product
-Working -X- _ I-PP_Product
-Capital -X- _ I-PP_Product
+(PayPal -X- _ B-Prod
+Working -X- _ I-Prod
+Capital -X- _ I-Prod
 loan). -X- _ O
 
-Pay -X- _ B-PP_Product
-in -X- _ I-PP_Product
-4 -X- _ I-PP_Product
+Pay -X- _ B-Prod
+in -X- _ I-Prod
+4 -X- _ I-Prod
 is -X- _ O
 a -X- _ O
 feature -X- _ O

@@ -5,17 +5,17 @@ can -X- _ O
 I -X- _ O
 view -X- _ O
 my -X- _ O
-PayPal -X- _ B-PP_Product
-Smart -X- _ I-PP_Product
-Connect -X- _ I-PP_Product
+PayPal -X- _ B-Prod
+Smart -X- _ I-Prod
+Connect -X- _ I-Prod
 transactions, -X- _ O
 statements, -X- _ O
 and -X- _ O
 payments. -X- _ O
 
-PayPal -X- _ B-PP_Product
-Smart -X- _ I-PP_Product
-Connect -X- _ I-PP_Product
+PayPal -X- _ B-Prod
+Smart -X- _ I-Prod
+Connect -X- _ I-Prod
 can -X- _ O
 be -X- _ O
 used -X- _ O
@@ -34,13 +34,13 @@ to -X- _ O
 my -X- _ O
 credit -X- _ O
 limit -X- _ O
-on -X- _ B-PP_Product
-Smart -X- _ I-PP_Product
-Connect. -X- _ I-PP_Product
+on -X- _ B-Prod
+Smart -X- _ I-Prod
+Connect. -X- _ I-Prod
 
-PayPal -X- _ B-PP_Product
-Smart -X- _ I-PP_Product
-Connect -X- _ I-PP_Product
+PayPal -X- _ B-Prod
+Smart -X- _ I-Prod
+Connect -X- _ I-Prod
 is -X- _ O
 a -X- _ O
 line -X- _ O
@@ -58,7 +58,7 @@ PayPal. -X- _ B-ORG
 
 Pay -X- _ O
 with -X- _ O
-Rewards -X- _ B-PP_Product
+Rewards -X- _ B-Prod
 may -X- _ O
 sometimes -X- _ O
 not -X- _ O
@@ -75,7 +75,7 @@ option -X- _ O
 to -X- _ O
 Pay -X- _ O
 with -X- _ O
-Rewards -X- _ B-PP_Product
+Rewards -X- _ B-Prod
 for -X- _ O
 eligible -X- _ O
 purchases -X- _ O
@@ -88,7 +88,7 @@ PayPal. -X- _ B-ORG
 
 Pay -X- _ O
 with -X- _ O
-Rewards -X- _ B-PP_Product
+Rewards -X- _ B-Prod
 lets -X- _ O
 you -X- _ O
 use -X- _ O
@@ -119,7 +119,7 @@ eligible -X- _ O
 for -X- _ O
 Pay -X- _ O
 with -X- _ O
-Rewards. -X- _ B-PP_Product
+Rewards. -X- _ B-Prod
 
 
 If -X- _ O
@@ -127,8 +127,8 @@ you -X- _ O
 don’t -X- _ O
 see -X- _ O
 the -X- _ O
-PayPal -X- _ B-PP_Product
-Key -X- _ I-PP_Product
+PayPal -X- _ B-Prod
+Key -X- _ I-Prod
 option -X- _ O
 in -X- _ O
 your -X- _ O
@@ -152,12 +152,12 @@ like -X- _ O
 you. -X- _ O
 
 Your -X- _ O
-PayPal -X- _ B-PP_Product
-Key -X- _ I-PP_Product
+PayPal -X- _ B-Prod
+Key -X- _ I-Prod
 represents -X- _ O
 your -X- _ O
-PayPal -X- _ B-PP_Product
-Wallet, -X- _ I-PP_Product
+PayPal -X- _ B-Prod
+Wallet, -X- _ I-Prod
 so -X- _ O
 you -X- _ O
 won’t -X- _ O
@@ -178,8 +178,8 @@ account. -X- _ O
 Receive -X- _ O
 a -X- _ O
 secure -X- _ O
-PayPal -X- _ B-PP_Product
-Key -X- _ I-PP_Product
+PayPal -X- _ B-Prod
+Key -X- _ I-Prod
 with -X- _ O
 its -X- _ O
 own -X- _ O
@@ -195,8 +195,8 @@ code. -X- _ O
 You -X- _ O
 can -X- _ O
 use -X- _ O
-PayPal -X- _ B-PP_Product
-Key -X- _ I-PP_Product
+PayPal -X- _ B-Prod
+Key -X- _ I-Prod
 like -X- _ O
 a -X- _ O
 card -X- _ O
@@ -222,9 +222,9 @@ can -X- _ O
 I -X- _ O
 track -X- _ O
 my -X- _ O
-PayPal -X- _ B-PP_Product
-Working -X- _ I-PP_Product
-Capital -X- _ I-PP_Product
+PayPal -X- _ B-Prod
+Working -X- _ I-Prod
+Capital -X- _ I-Prod
 loan -X- _ O
 online. -X- _ O
 
@@ -232,9 +232,9 @@ You -X- _ O
 can -X- _ O
 track -X- _ O
 your -X- _ O
-PayPal -X- _ B-PP_Product
-Working -X- _ I-PP_Product
-Capital -X- _ I-PP_Product
+PayPal -X- _ B-Prod
+Working -X- _ I-Prod
+Capital -X- _ I-Prod
 loan -X- _ O
 by -X- _ O
 logging -X- _ O
@@ -275,9 +275,9 @@ of -X- _ O
 the -X- _ O
 page. -X- _ O
 
-PayPal -X- _ B-PP_Product
-Working -X- _ I-PP_Product
-Capital -X- _ I-PP_Product
+PayPal -X- _ B-Prod
+Working -X- _ I-Prod
+Capital -X- _ I-Prod
 is -X- _ O
 a -X- _ O
 business -X- _ O
@@ -298,9 +298,9 @@ eligible -X- _ O
 to -X- _ O
 apply -X- _ O
 for -X- _ O
-PayPal -X- _ B-PP_Product
-Working -X- _ I-PP_Product
-Capital, -X- _ I-PP_Product
+PayPal -X- _ B-Prod
+Working -X- _ I-Prod
+Capital, -X- _ I-Prod
 you -X- _ O
 must -X- _ O
 Have -X- _ O
@@ -338,9 +338,9 @@ providing -X- _ O
 you -X- _ O
 with -X- _ O
 your -X- _ O
-Pay -X- _ B-PP_Product
-in -X- _ I-PP_Product
-4 -X- _ I-PP_Product
+Pay -X- _ B-Prod
+in -X- _ I-Prod
+4 -X- _ I-Prod
 plan. -X- _ O
 
 There -X- _ O
@@ -352,9 +352,9 @@ choosing -X- _ O
 to -X- _ O
 pay -X- _ O
 with -X- _ O
-Pay -X- _ B-PP_Product
-in -X- _ I-PP_Product
-4, -X- _ I-PP_Product
+Pay -X- _ B-Prod
+in -X- _ I-Prod
+4, -X- _ I-Prod
 however -X- _ O
 if -X- _ O
 you -X- _ O
@@ -374,9 +374,9 @@ fee. -X- _ O
 You -X- _ O
 can -X- _ O
 use -X- _ O
-Pay -X- _ B-PP_Product
-in -X- _ I-PP_Product
-4 -X- _ I-PP_Product
+Pay -X- _ B-Prod
+in -X- _ I-Prod
+4 -X- _ I-Prod
 for -X- _ O
 eligible -X- _ O
 shopping -X- _ O
@@ -390,9 +390,9 @@ $600. -X- _ O
 We -X- _ O
 are -X- _ O
 offering -X- _ O
-Pay -X- _ B-PP_Product
-in -X- _ I-PP_Product
-4 -X- _ I-PP_Product
+Pay -X- _ B-Prod
+in -X- _ I-Prod
+4 -X- _ I-Prod
 to -X- _ O
 a -X- _ O
 growing -X- _ O
